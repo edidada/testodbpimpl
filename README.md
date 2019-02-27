@@ -1,3 +1,5 @@
+# testodbpimpl
+
 This example shows how to use virtual data members to implement a persistent
 class that employs the pimpl C++ idiom.
 
@@ -60,4 +62,4 @@ Once the database schema is ready, we can run the example (using MySQL as
 the database):
 
 ./driver --user odb_test --database odb_test
-# testodbpimpl
+
